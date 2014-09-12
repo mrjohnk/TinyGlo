@@ -1,0 +1,9 @@
+Batt Charge Mgmt	MCP73831T-2ATI/OT
+ATtiny45	ATTINY45-20SU
+Battery Holder	BK-5033
+LIR2450 Battery	
+Avago Green/Yellow LED 569nm	HSMG-A100-J02J1   
+Photo Transistor	PT17-21C/L41/TR8
+Charger Capacitors (4.7uF)	
+Charger Adj Resistor (18.2K)	
+Photo Pull-Down Resistor (200K)	
