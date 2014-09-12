@@ -7,3 +7,4 @@ Photo Transistor	PT17-21C/L41/TR8
 Charger Capacitors (4.7uF)	
 Charger Adj Resistor (18.2K)	
 Photo Pull-Down Resistor (200K)	
+0.1 inch thick PCB
